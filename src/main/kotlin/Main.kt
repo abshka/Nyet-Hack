@@ -15,4 +15,3 @@ private fun createTitle(name: String): String {
         else -> "The Renowned Hero"
     }
 }
-// НЕ ДОДЕЛАЛ. ОСТАНОВИЛСЯ НА 64% ЛЕКЦИИ
